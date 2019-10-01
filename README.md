@@ -7,4 +7,10 @@ Therefore, these are written within minutes with no intention of making them fas
 ## Euler Polynomials
 ### Part 1
 h(n) = 103n^2 - 3945n + 34381
+
 Finds values of n so that h(n) is composite. Provides results by writing h(n) as a product of integers, each greater than 1.
+
+## Part 2
+k(n) = 36n^2 - 810n + 2753\
+
+Finds values of n so that k(n) is composite. Provides results by writing h(n) as a product of integers, each greater than 1.
